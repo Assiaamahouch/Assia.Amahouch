@@ -1,4 +1,4 @@
-# 🌟 My Developer Portfolio
+# 🌟 ASSIA'S Portfolio
 
 Welcome to my portfolio! I'm a passionate software engineer, curious problem solver, and technology enthusiast. This portfolio showcases some of my favorite projects, technical skills, and personal journey as a developer.
 
@@ -6,9 +6,9 @@ Welcome to my portfolio! I'm a passionate software engineer, curious problem sol
 
 ## 🧠 About Me
 
-Hi! I'm **[Your Name]**, a computer science student with a deep love for building things that make life better. I enjoy exploring web development, DevOps, and AI/ML — anything that challenges me and helps me grow.
+Hi! I'm **ASSIA AMAHOUCH**, a computer science student with a deep love for building things that make life better. I enjoy exploring web development, DevOps, and AI/ML — anything that challenges me and helps me grow.
 
-- 🎓 CS Engineering Student (Graduating [Year])
+- 🎓 CS Engineering Student (Graduating [2026])
 - 💻 Interested in Full-Stack Development, DevOps, and Cloud
 - 🚀 Always learning something new
 
@@ -43,19 +43,10 @@ Here are some of the technologies I work with:
 | 🛍️ **E-commerce Platform** | Marketplace for shop owners and customers. | Spring Boot, MySQL, Bootstrap |
 | 💼 **Portfolio Website** | A sleek, responsive website showcasing my work. | HTML, CSS, JS |
 
-> Want to see more? Visit [my GitHub profile](https://github.com/your-username)
+> Want to see more? Visit [my GitHub profile](https://github.com/Assiaamahouch)
 
 ---
 
-## 🧭 Roadmap
-
-- [x] Build personal portfolio website
-- [x] Learn Spring Boot & React
-- [ ] Master Docker & Jenkins
-- [ ] Publish technical blog posts
-- [ ] Contribute to open-source
-
----
 
 ## 📫 Connect with Me
 
