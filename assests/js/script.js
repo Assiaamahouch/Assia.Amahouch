@@ -41,8 +41,8 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Assia Anand";
-        $("#favicon").attr("href","assests/images/favicon.png");
+        document.title = "Portfolio | Assia Amahouch";
+        $("#favicon").attr("href","assests/images/profile.png");
     }
     else {
         document.title = "Come Back To Portfolio";
