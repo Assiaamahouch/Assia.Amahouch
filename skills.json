@@ -1,12 +1,54 @@
 [
+    // Programming Languages
+    {
+        "name": "C",
+        "icon": "https://img.icons8.com/color/48/000000/c.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/color/48/000000/php.png"
+    },
+
+    // Web & Backend Frameworks
+    {
+        "name": "Spring",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/flask.png"
+    },
+    {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
-    {
-        "name": "GCP",
-        "icon": "https://img.icons8.com/color/48/000000/google-cloud-platform.png"
-    },
+    
+
+    // Frontend Technologies
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
@@ -16,55 +58,91 @@
         "icon": "https://img.icons8.com/color/48/000000/css3.png"
     },
     {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "Tailwind CSS",
+        "icon": "https://img.icons8.com/color/48/000000/tailwindcss.png"
+    },
+
+    // Databases
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/fluency/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "Oracle",
+        "icon": "https://img.icons8.com/color/48/000000/oracle-logo.png"
     },
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
+
+    // DevOps & Cloud
     {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux--v1.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
     },
     {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    },
-    {
-        "name": "C",
-        "icon": "https://img.icons8.com/color/48/000000/c.png"
-    },
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
-        "name": "Figma",
-        "icon": "https://img.icons8.com/?size=51&id=nMeAkcoE7aTF&format=png"
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
     },
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
+        "name": "AWS Cloud Computing",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    
+    // Tools
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/color/48/000000/jira.png"
+    },
+    {
+        "name": "UML",
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/48/external-uml-web-development-flatart-icons-outline-flatarticons.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=51&id=nMeAkcoE7aTF&format=png"
+    },
+
+    // Soft Skills & Other Technical
+    {
+        "name": "Scrum",
+        "icon": "https://img.icons8.com/ios/48/scrum.png"
+    },
+    {
+        "name": "Networking & Protocols",
+        "icon": "https://img.icons8.com/color/48/000000/networking-manager.png"
+    },
+    {
+        "name": "Data Analysis",
+        "icon": "https://img.icons8.com/color/48/000000/combo-chart--v1.png"
+    },
+    {
+        "name": "Problem Solving",
+        "icon": "https://img.icons8.com/color/48/000000/brain.png"
+    },
+    {
         "name": "Team Work",
         "icon": "https://img.icons8.com/color/48/000000/teamwork.png"
-    }   
+    }
 ]
