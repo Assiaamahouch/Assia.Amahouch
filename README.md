@@ -59,9 +59,9 @@ Here are some of the technologies I work with:
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
-- 🐙 [GitHub](https://github.com/your-username)
-- ✉️ [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/assia-amahouch-091321211/)
+- 🐙 [GitHub](https://github.com/Assiaamahouch)
+- ✉️ [Email](mailto:assia.amh@gmail.com)
 
 ---
 
