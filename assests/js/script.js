@@ -42,7 +42,7 @@ document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
         document.title = "Portfolio | Assia Amahouch";
-        $("#favicon").attr("href","assests/images/profile.png");
+        $("#favicon").attr("href","favicon.ico");
     }
     else {
         document.title = "Come Back To Portfolio";
